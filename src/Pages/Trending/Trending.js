@@ -37,7 +37,7 @@ const Trending = () => {
             />
           ))}
       </div>
-      <CustomPagination setPage={setPage} />
+      <CustomPagination setPage={setPage} /
     </div>
   );
 };
